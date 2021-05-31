@@ -18,6 +18,12 @@ Para crear el diagrama se deben usar los siguientes símbolos:
 
 ![Principales s&#xED;mbolos y explicaci&#xF3;n espec&#xED;fica](.gitbook/assets/simbolos_diagramas_flujo.jpg)
 
+### Herramientas para editar el diagrama
+
+* [Diagrams](https://app.diagrams.net/)
+* [Photopea](https://www.photopea.com/)
+* [Figma](https://www.figma.com/)
+
 ### Ejemplo
 
 Diagrama suma de dos números
