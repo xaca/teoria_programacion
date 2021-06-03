@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Pseudocódigo](README.md)
+* [Inicio](README.md)
 
 ## Algoritmos
 
 ---
 
 * [Diagramas de flujo](diagramas-de-flujo.md)
-
+* [Pseudocódigo](pseudocodigo.md)
