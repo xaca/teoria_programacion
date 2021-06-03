@@ -4,7 +4,11 @@
 
 ## Algoritmos
 
----
+* [Diagramas de flujo](algoritmos/diagramas-de-flujo.md)
+* [Pseudocódigo](algoritmos/pseudocodigo.md)
 
-* [Diagramas de flujo](diagramas-de-flujo.md)
-* [Pseudocódigo](pseudocodigo.md)
+## Primeros pasos
+
+* [Ambiente de desarrollo](primeros-pasos/getting-started.md)
+* [Terminal y repositorio](primeros-pasos/terminal-y-repositorio.md)
+
