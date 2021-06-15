@@ -1,7 +1,5 @@
 ---
 description: >-
-  "Debemos creer que estamos dotados para algo, y que alcanzaremos ese objetivo
-  cueste lo que cueste." Rosa Montero
   "Para mí, la programación es algo más que un importante arte práctico. Es también una gigantesca empresa en los fundamentos del conocimiento". Grace Hopper
 ---
 
@@ -11,3 +9,7 @@ Teoria, ejercicios y contenido en general para aprender sobre programación, si 
 
 Creado por: [Xaca Rana](www.xacarana.com)
 
+# Progra :heart: amando
+
+  "Debemos creer que estamos dotados para algo, y que alcanzaremos ese objetivo
+  cueste lo que cueste." Rosa Montero
