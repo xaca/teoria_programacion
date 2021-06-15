@@ -25,7 +25,7 @@ La mayor ventaja de esto, es que varias personas puedne estar trabajndo en difer
 
 No solamente existe github, también existen otras plataformas como gitlab, bitbucket, pero todos ellos utilizan git para el manejo de versiones. Git implementa toda una estrategia y una serie de comandos para acceder a los proyectos \(repositorios\) y controlar sus versiones.
 
-Para utilizar los comando de git debe instalarse en el dispositivo a utilizar. [https://git-](https://git-) scm.com/
+Para utilizar los comando de git debe instalarse en el dispositivo a utilizar. [https://git-scm.com/](https://git-scm.com/)
 
 ## 3. Utilizar github
 
