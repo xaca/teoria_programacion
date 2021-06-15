@@ -16,5 +16,5 @@
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
 * [Interfaz gráfica de usuario](proyecto-aplicacion-reservas/interfaz-grafica-de-usuario.md)
-* [Creación repositorio](proyecto-aplicacion-reservas/creacion-repositorio.md)
+* [Maquillaje \(CSS\)](proyecto-aplicacion-reservas/creacion-repositorio.md)
 
