@@ -7,6 +7,12 @@ description: >-
 
 # Terminal y repositorio
 
+## Principales comandos
+
+### mkdir
+
+Crea una nueva carpeta, se pueden crear 
+
 ## Actividad
 
 Visualice la presentación sobre el [repositorio](https://xacarana.com/cursos/repositorio/) y realice el siguiente ejercicio usando solamente comandos de consola

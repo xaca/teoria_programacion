@@ -1,3 +1,7 @@
+---
+description: "Red social de desarrolladores de software, compañia de stickers y sitio web para mostrar el portafolio \U0001F602, así ha sido definida esta herramienta por sus propios empleados."
+---
+
 # GitHub
 
 ## Primeros pasos
@@ -38,4 +42,10 @@ Github facilita la colaboración con git, para que diferentes desarrolladores pu
 4. Añadir un nuevo repositorio y su cuenta de github
 5. Suba los cambios a su repositorio en la nube
 ```
+
+{% hint style="info" %}
+Si usas por primera vez github y los comandos de git, es probable que al enviar los datos por medio de un push al repositorio, se pida nombre y correo. En esta [guía](https://linuxize.com/post/how-to-configure-git-username-and-email/) se explica como hacer la configuración.
+{% endhint %}
+
+
 
