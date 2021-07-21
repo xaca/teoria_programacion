@@ -13,6 +13,10 @@
 * [Terminal y repositorio](primeros-pasos/terminal-y-repositorio.md)
 * [GitHub](primeros-pasos/github.md)
 
+## TRABAJO EN EQUIPO
+
+* [Merge automático](trabajo-en-equipo/merge-automatico.md)
+
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
 * [Interfaz gráfica de usuario](proyecto-aplicacion-reservas/interfaz-grafica-de-usuario.md)

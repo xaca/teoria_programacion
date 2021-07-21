@@ -13,6 +13,22 @@ description: >-
 
 Crea una nueva carpeta, se pueden crear 
 
+### touch
+
+Permite crear un archivo vacío
+
+### cd
+
+Ingresa o sale de una carpeta, se puede combinar usando rutas relativas, por ejemplo cd .. sale de la carpeta actual
+
+### ls
+
+Lista los archivos presentes en una carpeta
+
+### pwd
+
+Muestra la ruta del directorio actual
+
 ## Actividad
 
 Visualice la presentación sobre el [repositorio](https://xacarana.com/cursos/repositorio/) y realice el siguiente ejercicio usando solamente comandos de consola
