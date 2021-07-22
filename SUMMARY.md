@@ -4,8 +4,8 @@
 
 ## Algoritmos
 
-* [Diagramas de flujo](algoritmos/diagramas-de-flujo.md)
 * [Pseudocódigo](algoritmos/pseudocodigo.md)
+* [Diagramas de flujo](algoritmos/diagramas-de-flujo.md)
 
 ## Primeros pasos
 
