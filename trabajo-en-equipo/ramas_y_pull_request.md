@@ -26,10 +26,10 @@ Una rama en git, es una forma de crear un espacio aislado de la rama principal m
 
 ### Enlaces de referencia
 
-1. [¿Qué es git flow?](https://dazzet.co/tutorial-de-git-flow/)
-2. [Modelo de ramas exitoso](https://nvie.com/posts/a-successful-git-branching-model/)
-3. [¿Qué es una rama?](https://www.pragma.com.co/academia/lecciones/que-es-una-rama-de-git-y-como-crearlas)
-4. [Ramificaciones en git](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-%C2%BFQu%C3%A9-es-una-rama%3F)
+* [¿Qué es git flow?](https://dazzet.co/tutorial-de-git-flow/)
+* [Modelo de ramas exitoso](https://nvie.com/posts/a-successful-git-branching-model/)
+* [¿Qué es una rama?](https://www.pragma.com.co/academia/lecciones/que-es-una-rama-de-git-y-como-crearlas)
+* [Ramificaciones en git](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-%C2%BFQu%C3%A9-es-una-rama%3F)
 
  
 
