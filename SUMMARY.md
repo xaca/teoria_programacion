@@ -16,6 +16,7 @@
 ## TRABAJO EN EQUIPO
 
 * [Merge automático](trabajo-en-equipo/merge-automatico.md)
+* [Ramas y pull request](trabajo-en-equipo/ramas_y_pull_request.md)
 
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
