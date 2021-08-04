@@ -20,6 +20,10 @@ Es un espacio reservado en memoria que sirve para almacenar un dato, el valor al
 
 Indica como debe ser creada e interpretada una variable por javascript, hay 4 formas de crear variables, teniendo presente su modificador:
 
+{% hint style="info" %}
+El modificador, define como se va a comportar la variable
+{% endhint %}
+
 * Sin modificador, es posible crear una variable sin asignar un modificador, simplemente se reserva el espacio y se asigna el valor, javascript en el momento de asignación de un valor a una variable, la crea, siempre y cuando no se haya definido previamente y además que no tenga un modificador de acceso
 
 ```text
