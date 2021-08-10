@@ -103,7 +103,7 @@ var negacion = !true;
 
 Como complemento para entender como funcionan estos operadores, recomiendo guardar, transcribir, incluir en sus apuntes la siguiente tabla.
 
-![Tablas de verdad, tomado de https://arjephilo.com/2018/09/10/tablas-de-verdad/](../.gitbook/assets/imagen%20%283%29.png)
+![Tablas de verdad, tomado de https://arjephilo.com/2018/09/10/tablas-de-verdad/](../.gitbook/assets/imagen%20%284%29.png)
 
 ### Condición 👀
 
@@ -150,5 +150,5 @@ Los paréntesis son `gratis` en programación, no nos cuestan nada, por tanto no
 9. Identifique los operadores de la piramide de precedencia que no son compatibles con javascript
 10. Reescriba la siguiente expresión y evaluela en javascript.
 
-![Tomado de https://www.youtube.com/watch?v=zd0s2vTui7Q](../.gitbook/assets/imagen%20%284%29.png)
+![Tomado de https://www.youtube.com/watch?v=zd0s2vTui7Q](../.gitbook/assets/imagen%20%285%29.png)
 
