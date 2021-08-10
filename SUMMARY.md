@@ -22,6 +22,9 @@
 
 * [¿Qué es javascript?](fundamentos-de-programacion/que_es_javascript.md)
 * [Variables](fundamentos-de-programacion/variables.md)
+* [Operadores y condiciones](fundamentos-de-programacion/condicion_y_condicionales.md)
+* [Estructuras condicionales](fundamentos-de-programacion/condicionales.md)
+* [Estructuras ciclicas](fundamentos-de-programacion/ciclos.md)
 
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
