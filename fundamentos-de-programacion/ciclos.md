@@ -66,8 +66,6 @@ Recuerde que la expresión i++ es una versión simplificada de i = i + 1, es con
 
 #### Ciclo for + operador in
 
-### 
-
 Permite recorrer una estructura en el siguiente ejemplo se muestra como imprimir cada uno de los valores de un arreglo usando esta variación de este ciclo. Incluye propiedades de objetos.
 
 ```text
