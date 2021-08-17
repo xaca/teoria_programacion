@@ -54,4 +54,5 @@ En el siguiente video, se refuerza la explicación sobre operadores, condiciones
 4. ¿Qué es el operador ternario?
 5. ¿Qué es la estructura switch?
 6. ¿Qué es el elseif?
+7. ¿Qué es corto circuito?
 
