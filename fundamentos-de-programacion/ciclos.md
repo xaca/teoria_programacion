@@ -136,6 +136,8 @@ for(var i=0;i<=10;i++){
 ¿Cuál es el resultado al ejecutar el ciclo anterior?
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=Zp4ZrLpUmog" caption="Explicación y uso de ciclos en javascript " %}
+
 ### Bestiario de variables
 
 #### Bandera
