@@ -25,6 +25,7 @@
 * [Operadores y condiciones](fundamentos-de-programacion/condicion_y_condicionales.md)
 * [Estructuras condicionales](fundamentos-de-programacion/condicionales.md)
 * [Estructuras cíclicas](fundamentos-de-programacion/ciclos.md)
+* [Arreglos, matrices y cadenas](fundamentos-de-programacion/cadenas_y_arreglos.md)
 
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
