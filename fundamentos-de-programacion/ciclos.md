@@ -12,7 +12,7 @@ Se ejecuta mientras que la condición sea verdadera, primero se evalua la condic
 
 ![Diagrama de flujo y ejemplo de c&#xF3;digo ciclo while](../.gitbook/assets/imagen%20%2817%29.png)
 
-```text
+```javascript
 var condicion = true;
 
 while(condicion){
@@ -31,7 +31,7 @@ Se ejecuta primero el procedimiento interno en el ciclo y al final se evalua la 
 
 ![Diagrama de flujo y ejemplo de c&#xF3;digo ciclo do-while](../.gitbook/assets/imagen%20%2810%29.png)
 
-```text
+```javascript
 var condicion = false;
 
 do{
@@ -53,7 +53,7 @@ El ciclo for funciona similar a los ciclos anteriores, la única diferencia es q
 
 #### Ciclo for tradicional
 
-```text
+```javascript
 for(var i = 0; i < 10; i++)
 {
   console.log("Iteracion #",i);
@@ -68,7 +68,7 @@ Recuerde que la expresión i++ es una versión simplificada de i = i + 1, es con
 
 Permite recorrer una estructura en el siguiente ejemplo se muestra como imprimir cada uno de los valores de un arreglo usando esta variación de este ciclo. Incluye propiedades de objetos.
 
-```text
+```javascript
 var arreglo = [2,3,4,5,7,8];
 for(var i in arreglo)
 {
@@ -84,7 +84,7 @@ La estructura arreglo, array o vector se estudiará más adelante, junto con los
 
 Permite iterar sobre colecciones como arreglos, no incluye propiedades de objetos.
 
-```text
+```javascript
 var arreglo = [2,3,4];
 arreglo.propiedad = "prueba";
 
@@ -104,7 +104,7 @@ Ejecute los dos ciclos anteriores y encuentre sus similitudes y diferencias
 
 Termina la ejecución del ciclo en el momento de su invocación
 
-```text
+```javascript
 while(true)
 {
    if(Math.random()>.5)
@@ -114,7 +114,7 @@ while(true)
 }
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ¿Por qué el ciclo anterior, no es un ciclo infinito?, ¿Cuántas veces se ejecuta?
 {% endhint %}
 
@@ -122,7 +122,7 @@ while(true)
 
 Avanza una iteración, pero no detiende la ejecución del ciclo
 
-```text
+```javascript
 for(var i=0;i<=10;i++){
     if(i%2==0)
     {
@@ -166,6 +166,7 @@ Es similar al contador, se diferencia en la forma como realiza el incremento, ya
 
 ### Referentes
 
+* Ejercicio de referencia en [codepen](https://codepen.io/xaca/pen/NWpXbEg)
 * [¿for each en javascript?](https://es.stackoverflow.com/questions/17640/for-each-en-javascript)
 * [for ...of](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...of)
 * [The for-of loop](https://exploringjs.com/es6/ch_for-of.html)
@@ -174,7 +175,8 @@ Es similar al contador, se diferencia en la forma como realiza el incremento, ya
 
 1. ¿Cuál es el operador preincremento, predecremento, posdecremento? Escriba ejemplos donde se evidencie su uso.
 2. ¿Existe el preproducto, posdivisión...?
-3. ¿Para que se utiliza forEach, every, some? 🤓Bonus
+3. Imprima los números pares entre n y m, donde n &lt; m
+4. ¿Para que se utiliza forEach, every, some? 🤓Bonus
 
 
 

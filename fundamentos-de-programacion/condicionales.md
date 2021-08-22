@@ -13,7 +13,7 @@ Solo interesa la respuesta verdadera de la condición, si es verdadera se ejecut
 
 ![Si, estructura condicional](../.gitbook/assets/imagen%20%288%29.png)
 
-```text
+```javascript
 if(5>2)
 {
     console.log("Se ejecuta las sentencias dentro de este bloque");
@@ -26,7 +26,7 @@ Importa tanto lo que pasa si la condición es verdadera como si es falsa
 
 ![Si-no, estructura condicional](../.gitbook/assets/imagen%20%283%29.png)
 
-```text
+```javascript
 var condicion = true;
 
 if(condicion)

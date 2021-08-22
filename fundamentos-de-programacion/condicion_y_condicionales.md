@@ -17,31 +17,31 @@ Operaciones básicas matemáticas, permiten realizar cálculos tales como: suma,
 
 #### Suma
 
-```text
+```javascript
 var suma = 5 + 3;
 ```
 
 #### Resta
 
-```text
+```javascript
 var resta = 8 - 2;
 ```
 
 #### Multiplicación
 
-```text
+```javascript
 var multiplicacion = 8 * 3;
 ```
 
 #### División
 
-```text
+```javascript
 var division = 8 / 2;
 ```
 
 #### Módulo
 
-```text
+```javascript
 var modulo = 5 % 3;
 ```
 
@@ -51,21 +51,21 @@ Permite realizar comparaciones entre valores, para determinar relaciones en los 
 
 #### Mayor que, mayor o igual
 
-```text
+```javascript
 var mayor = 5 > 3;
 var mayor_igual = 7 >= -2; 
 ```
 
 #### Menor que, menor o igual
 
-```text
+```javascript
 var menor = 12 < 3;
 var menor_igual = 1 <= 8; 
 ```
 
 #### Igual
 
-```text
+```javascript
 var igual = 5 == 5;
 ```
 
@@ -75,7 +75,7 @@ Tenga en cuenta que `=` se debe interpretar en programación, como el operador d
 
 #### Diferente
 
-```text
+```javascript
 var diferente = 8 != 2;
 ```
 
@@ -85,19 +85,19 @@ Son operadores bastante usados en programación, permiten realizar operaciones s
 
 #### And - y lógica - Conjunción
 
-```text
+```javascript
 var operacion_y = true && false;
 ```
 
 #### Or - o lógica - Disyunción
 
-```text
+```javascript
 var operacion_o = false || true;
 ```
 
 #### Not - negación
 
-```text
+```javascript
 var negacion = !true;
 ```
 
@@ -115,7 +115,7 @@ Para crear una condición, además de la definición, debemos tener presente rea
 
 Ejemplo condición
 
-```text
+```javascript
 var condicion = 4 > 5 && 5+3 == 2;
 ```
 
@@ -131,11 +131,15 @@ Para conocer en detalle la precedencia de operadores, existe la siguiente gráfi
 
 ![Prioridad entre operadores, tomado de https://www.aprenderaprogramar.com](../.gitbook/assets/cu00133a_1.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Hay algunos operadores que cambian, en javascript, sin embargo el orden de prioridad para los operadores que aplican para javascript es el mismo que indica la gráfica.
 {% endhint %}
 
 Los paréntesis son `gratis` en programación, no nos cuestan nada, por tanto no dude en usarlos para darle mayor prioridad a una operación sobre las demás. Ayuda a darle un orden a una expresión, tanto de manera gráfica como a la hora de ser evaluada la expresión.
+
+### Enlaces de referencia
+
+* Ejemplo de referencia en [codepen](https://codepen.io/xaca/pen/jOyXyVy)
 
 ### Ejercicios
 
