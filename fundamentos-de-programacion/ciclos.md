@@ -176,7 +176,8 @@ Es similar al contador, se diferencia en la forma como realiza el incremento, ya
 1. ¿Cuál es el operador preincremento, predecremento, posdecremento? Escriba ejemplos donde se evidencie su uso.
 2. ¿Existe el preproducto, posdivisión...?
 3. Imprima los números pares entre n y m, donde n &lt; m
-4. ¿Para que se utiliza forEach, every, some? 🤓Bonus
+4. Calcular el promedio de los n primero numeros naturales, siendo n &gt;0
+5. ¿Para que se utiliza forEach, every, some? 🤓Bonus
 
 
 
