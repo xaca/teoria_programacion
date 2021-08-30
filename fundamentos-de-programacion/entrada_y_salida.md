@@ -292,6 +292,7 @@ Consulte que hace isNaN y isFinite, y el significado de throw.
 * [Consola online](https://jsconsole.com/)
 * [Type casting](https://www.tutorialspoint.com/type-casting-in-javascript)
 * [MDN try-catch-finally](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/try...catch)
+* [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ### Ejercicio
 
@@ -300,4 +301,5 @@ Consulte que hace isNaN y isFinite, y el significado de throw.
 * ¿Qué significa NaN e infinity?, ¿qué relación tiene con la conversión entre tipos?
 * Escriba 10 palabras reservadas de javascript
 * ¿Cómo podemos realizar operaciones como raíz cuadrada, seno y coseno en javascript?
+* ¿Qué son los template literals?, ¿cómo se usan en la salida?
 
