@@ -21,16 +21,16 @@ Es el lenguaje de programación soportado por todos los navegadores web y del la
 
 {% embed url="https://www.youtube.com/watch?v=bF5CTKPd8To" caption="Funcionamiento básico de javascript" %}
 
-### Ejercicio
-
-* Cree un proyecto de prueba en codepen, suba la estructura creada en unidades anteriores
-* Ejecute el programa en javascript _hola mundo_
-
 ### Enlaces de referencia
 
 * [¿Qué es javascript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 * [Nodeschool javascripting](https://github.com/workshopper/javascripting)
 * [Javascript codeacademy](https://mypassionprojects.com/30-days-of-code-learning-javascript/)
+
+### Ejercicio
+
+* Cree un proyecto de prueba en codepen, suba la estructura creada en unidades anteriores
+* Ejecute el programa en javascript _hola mundo_
 
 
 

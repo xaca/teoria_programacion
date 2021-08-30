@@ -157,6 +157,12 @@ let texto_escapado = "\"Talk is cheap, show me the code\" - Linus Torvalds";
 Es posible escapar cualquier caracter, por ejemplo cuando se requieren mostrar caracteres especiales del español en un mensaje de alerta, revisar los referentes de esta sección para ver como se hace.
 {% endhint %}
 
+### Enlaces de Referencia
+
+* [Cadenas de escape](http://www.etnassoft.com/2010/12/28/cadenas-de-escape-como-poner-tildes-en-javascript/)
+* [Operación de matrices 1/2](http://es.onlinemschool.com/math/assistance/matrix/multiply/)
+* [Operación de matrices 2/2](https://matrixcalc.org/es/)
+
 ### Ejercicios
 
 Realice un programa que...
@@ -176,10 +182,4 @@ Realice un programa que...
 * Imprima una mátriz con el siguiente formato:
 
 ![Imprima una matriz en la consola siguiendo el siguiente formato](../.gitbook/assets/ejercicio_conversiones_02jpg.jpg)
-
-### Referentes
-
-* [Cadenas de escape](http://www.etnassoft.com/2010/12/28/cadenas-de-escape-como-poner-tildes-en-javascript/)
-* [Operación de matrices 1/2](http://es.onlinemschool.com/math/assistance/matrix/multiply/)
-* [Operación de matrices 2/2](https://matrixcalc.org/es/)
 

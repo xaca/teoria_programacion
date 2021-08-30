@@ -164,7 +164,7 @@ Es similar al contador, se diferencia en la forma como realiza el incremento, ya
 
 ![Control de ejecuci&#xF3;n de un ciclo while usando un amuculador que multiplica el valor por 2](../.gitbook/assets/imagen%20%2815%29.png)
 
-### Referentes
+### Enlaces de referencia
 
 * Ejercicio de referencia en [codepen](https://codepen.io/xaca/pen/NWpXbEg)
 * [¿for each en javascript?](https://es.stackoverflow.com/questions/17640/for-each-en-javascript)
