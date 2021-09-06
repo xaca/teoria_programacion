@@ -261,7 +261,7 @@ try
     
     temp = a/b;
     
-    if(isNaN(a) || !isFinite(temp))
+    if(isNaN(temp) || !isFinite(temp))
     {
          throw new Error('Operación incorrecta');
     }

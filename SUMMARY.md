@@ -27,6 +27,7 @@
 * [Estructuras cíclicas](fundamentos-de-programacion/ciclos.md)
 * [Arreglos, matrices y cadenas](fundamentos-de-programacion/cadenas_y_arreglos.md)
 * [Entrada y salida](fundamentos-de-programacion/entrada_y_salida.md)
+* [Función](fundamentos-de-programacion/funcion.md)
 
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
