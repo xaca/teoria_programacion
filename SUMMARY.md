@@ -29,6 +29,10 @@
 * [Entrada y salida](fundamentos-de-programacion/entrada_y_salida.md)
 * [Función](fundamentos-de-programacion/funcion.md)
 
+## Programación orientada a objetos
+
+* [¿Qué es POO?](programacion-orientada-a-objetos/que-es-poo.md)
+
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 
 * [Interfaz gráfica de usuario](proyecto-aplicacion-reservas/interfaz-grafica-de-usuario.md)
