@@ -157,6 +157,7 @@ Nota: Los miembros dato de estos ejemplos no estan 100% encapsulados, se recomie
 
 ## Referencias
 
+* [Method definition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
 * [Property accesor](https://javascript.info/property-accessors)
 
 ## Ejercicio
