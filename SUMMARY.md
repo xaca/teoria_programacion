@@ -32,6 +32,7 @@
 ## Programación orientada a objetos
 
 * [¿Qué es POO?](programacion-orientada-a-objetos/que-es-poo.md)
+* [Relaciones entre clases](programacion-orientada-a-objetos/relaciones-entre-clases.md)
 
 ## Proyecto 01 <a id="proyecto-aplicacion-reservas"></a>
 

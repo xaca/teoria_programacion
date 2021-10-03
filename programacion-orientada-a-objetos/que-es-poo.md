@@ -172,14 +172,42 @@ var e2 = new Estudiante("Luz","Lopez"); //Se crea la instancia
 e2.saludar();//Se invoca un método
 ```
 
-### Referencias
+### Todo es un objeto en javascript
+
+Con diferencia a otros lenguajes de programación, javascript permite crear un objeto en tiempo de ejecución y agregar, propiedades y métodos por demanda, o según se vaya necesitando.
+
+```javascript
+let estudiante = {};
+estudiante.nombre = "Bruno";
+estudiante.apellido = "Jaramillo";
+estudiante.saludar = function()
+{
+  console.log("Hola, mi nombre es",this.nombre,this.apellido);
+}
+estudiante.saludar();
+```
+
+{% hint style="info" %}
+Un objeto se puede definir simplemente usando llaves `{ }` y paulatinamente agregar propiedades y métodos, o incluso se puede agregar inmediatamente, como se muestra en el siguiente ejemplo equivalente.
+{% endhint %}
+
+```javascript
+let estudiante = {
+nombre:"Bruno",
+apellido:"Jaramillo",
+saludar:function(){console.log("Hola, mi nombre es",this.nombre,this.apellido)}
+};
+estudiante.saludar();
+```
+
+## Referencias
 
 * [MDN clases](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [Class basic syntax](https://javascript.info/class)
 * [Undestanding classes in javascript](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 * [Números complejos](https://www.rbjlabs.com/algebra/operaciones-con-numeros-complejos/)
 
-### Ejercicios
+## Ejercicios
 
 1. Crear la clase Complejo para representar un número complejo y defina las siguientes propiedades y métodos: impresion en notación compleja, suma, resta y múltiplicación.
 2. Definir la clase circulo, definir sus propiedades e implementar los métodos area, diametro y circunferencia.
