@@ -2,7 +2,7 @@
 description: >-
   Los proyectos de node js, por lo general tienen una estructura determinada,
   que tiene en cuenta la creación de los archivos necesarios para su
-  funcionamiento, independiente del uso que se le darán a l
+  funcionamiento, independiente del uso que se le dará.
 ---
 
 # Configuración proyecto
