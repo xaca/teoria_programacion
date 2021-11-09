@@ -35,11 +35,13 @@
 * [Relaciones entre clases](programacion-orientada-a-objetos/relaciones-entre-clases.md)
 * [JSON](programacion-orientada-a-objetos/json.md)
 
+## Backend
+
+* [Node js](backend/node-js.md)
+* [Configuración proyecto](backend/configuracion-proyecto.md)
+* [Servidor](backend/servidor.md)
+
 ## Proyecto 01 <a href="proyecto-aplicacion-reservas" id="proyecto-aplicacion-reservas"></a>
 
 * [Interfaz gráfica de usuario](proyecto-aplicacion-reservas/interfaz-grafica-de-usuario.md)
 * [Maquillaje (CSS)](proyecto-aplicacion-reservas/creacion-repositorio.md)
-
-## Backend
-
-* [Node js](backend/node-js.md)

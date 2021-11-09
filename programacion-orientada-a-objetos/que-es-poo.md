@@ -9,17 +9,17 @@ description: >-
 
 ## ¿Qué es una clase?
 
- Es una plantilla o un molde, que se usa para abstraer propiedades y acciones de un elemento de la realidad que se va a representar en un sistema. Esta plantilla además de representar dicha abstracción servirá para crear copias del concepto y posteriormente ser usado en un programa.
+&#x20;Es una plantilla o un molde, que se usa para abstraer propiedades y acciones de un elemento de la realidad que se va a representar en un sistema. Esta plantilla además de representar dicha abstracción servirá para crear copias del concepto y posteriormente ser usado en un programa.
 
-![Abstracci&#xF3;n del concepto estudiante en una clase](../.gitbook/assets/imagen%20%2840%29.png)
+![Abstracción del concepto estudiante en una clase](<../.gitbook/assets/imagen (40).png>)
 
 {% hint style="info" %}
 Al abstraer, se simplifica y se consigna en la clase lo escencial que permita representar el concepto analizado.
 {% endhint %}
 
-Las clases tiene dos partes, la primera esta compuesta por las propiedades, que son las variables que definen las características del concepto, en el ejemplo anterior serían  `nombre`,`apellido` y `edad.` También llamados atributos o miembros dato, estas variables por lo general son de tipos primitivos como string, boolean, number, adicionalmente también pueden ser objetos que los definiremos más adelante. 
+Las clases tiene dos partes, la primera esta compuesta por las propiedades, que son las variables que definen las características del concepto, en el ejemplo anterior serían  `nombre`,`apellido` y `edad. `También llamados atributos o miembros dato, estas variables por lo general son de tipos primitivos como string, boolean, number, adicionalmente también pueden ser objetos que los definiremos más adelante.&#x20;
 
-La siguiente parte son las acciones, funciones o métodos. Por medio de módulos se definen las acciones que el objeto puede realizar, en el ejemplo del estudiante los métodos son: `Estudiante`, `estudiar` y `leer.` Estas son las acciones que se pueden invocar en los objetos de tipo Estudiante, basicamente son funciones asociadas a la variable que define el concepto estudiante.
+La siguiente parte son las acciones, funciones o métodos. Por medio de módulos se definen las acciones que el objeto puede realizar, en el ejemplo del estudiante los métodos son: `Estudiante`, `estudiar` y `leer. `Estas son las acciones que se pueden invocar en los objetos de tipo Estudiante, basicamente son funciones asociadas a la variable que define el concepto estudiante.
 
 {% hint style="info" %}
 La función`Estudiante`se conoce como el constructor de la clase, la cual será usada para crear las copias de la clase.
@@ -29,7 +29,7 @@ La función`Estudiante`se conoce como el constructor de la clase, la cual será 
 
 Es una copia creada a partir de una clase, cada copia tendra las propiedades y acciones que representan el concepto las cuales pueden ser almacenadas en una variable y posteriormente ser modificadas en tiempo de ejecución.
 
-![Objetos, copias creadas a partir de la clase Estudiante.](../.gitbook/assets/imagen%20%2839%29.png)
+![Objetos, copias creadas a partir de la clase Estudiante.](<../.gitbook/assets/imagen (39).png>)
 
 ## ¿Cómo se crea una clase en Javascript?
 
@@ -213,4 +213,3 @@ estudiante.saludar();
 2. Definir la clase circulo, definir sus propiedades e implementar los métodos area, diametro y circunferencia.
 3. Cree un array de ciruclos, y calcule el promedio de sus radios.
 4. Complete la clase estudiante, cree la clase Materia y Profesor. Asigne un profesor a una Materia y defina una propiedad en estudiante donde se asignen las materias matriculadas en el semestre, luego relice un método que cálcule el promedio de las materias del semestre.
-

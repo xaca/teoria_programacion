@@ -15,5 +15,6 @@ description: >-
 3. Suba el proyecto a su repositorio personal usando github
 4. Habilite la opción de pagina publica como muestra el siguiente video
 
-{% embed url="https://youtu.be/chkAAMCzJ\_0" caption="Tutorial: Creación de repositorio y activación de pages" %}
-
+{% embed url="https://youtu.be/chkAAMCzJ_0" %}
+Tutorial: Creación de repositorio y activación de pages
+{% endembed %}

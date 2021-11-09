@@ -10,7 +10,7 @@ description: >-
 
 Se ejecuta mientras que la condición sea verdadera, primero se evalua la condición y luego si la condición es verdadera se realiza el procedimiento interno definido entre llaves.
 
-![Diagrama de flujo y ejemplo de c&#xF3;digo ciclo while](../.gitbook/assets/imagen%20%2817%29.png)
+![Diagrama de flujo y ejemplo de código ciclo while](<../.gitbook/assets/imagen (17).png>)
 
 ```javascript
 var condicion = true;
@@ -29,7 +29,7 @@ Internamente el ciclo debe definir una sentencia o procedimiento que convierta l
 
 Se ejecuta primero el procedimiento interno en el ciclo y al final se evalua la condición.
 
-![Diagrama de flujo y ejemplo de c&#xF3;digo ciclo do-while](../.gitbook/assets/imagen%20%2810%29.png)
+![Diagrama de flujo y ejemplo de código ciclo do-while](<../.gitbook/assets/imagen (10).png>)
 
 ```javascript
 var condicion = false;
@@ -49,7 +49,7 @@ Esta es de las pocas instrucciones en javascript que se pone un punto y coma al 
 
 El ciclo for funciona similar a los ciclos anteriores, la única diferencia es que depende por lo general de un valor de control que define el número de iteraciones que realizará el ciclo. En javascript hay varias versiones, estudiaremos algunas de ellas:
 
-![Diagrama de flujo y ejemplo de c&#xF3;digo ciclo for](../.gitbook/assets/imagen%20%2811%29.png)
+![Diagrama de flujo y ejemplo de código ciclo for](<../.gitbook/assets/imagen (11).png>)
 
 #### Ciclo for tradicional
 
@@ -136,7 +136,9 @@ for(var i=0;i<=10;i++){
 ¿Cuál es el resultado al ejecutar el ciclo anterior?
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=Zp4ZrLpUmog" caption="Explicación y uso de ciclos en javascript " %}
+{% embed url="https://www.youtube.com/watch?v=Zp4ZrLpUmog" %}
+Explicación y uso de ciclos en javascript&#x20;
+{% endembed %}
 
 ### Bestiario de variables
 
@@ -144,40 +146,38 @@ for(var i=0;i<=10;i++){
 
 Controla el estado de una variable, puede ser true o false, dependiendo de este valor se toman decisiones en la ejecución del código.
 
-![Ejemplo uso de una variable como una bandera de control](../.gitbook/assets/imagen%20%2818%29.png)
+![Ejemplo uso de una variable como una bandera de control](<../.gitbook/assets/imagen (18).png>)
 
 #### Centinela
 
 Vigila que se produzca un valor, por lo general este valor es ingresado por el usuario, se puede usar por ejemplo para leer un grupo de valores y se incluye un centinela para terminar la lectura de los datos.
 
-![Ejemplo de uso de un ciclo que se controla por medio de un centinela](../.gitbook/assets/imagen%20%289%29.png)
+![Ejemplo de uso de un ciclo que se controla por medio de un centinela](<../.gitbook/assets/imagen (9).png>)
 
 #### Contador
 
 Variable que se incrementa por lo general en una unidad cada vez, se usa por ejemplo para contar o controlar el número de iteraciones que ejecuta un ciclo.
 
-![Control de ejecuci&#xF3;n de un ciclo while, por medio de un contador](../.gitbook/assets/imagen%20%2813%29.png)
+![Control de ejecución de un ciclo while, por medio de un contador](<../.gitbook/assets/imagen (13).png>)
 
 #### Acumulador
 
 Es similar al contador, se diferencia en la forma como realiza el incremento, ya que puede acumular sumando, multiplicando, dividiendo, etc.
 
-![Control de ejecuci&#xF3;n de un ciclo while usando un amuculador que multiplica el valor por 2](../.gitbook/assets/imagen%20%2815%29.png)
+![Control de ejecución de un ciclo while usando un amuculador que multiplica el valor por 2](<../.gitbook/assets/imagen (15).png>)
 
 ### Enlaces de referencia
 
 * Ejercicio de referencia en [codepen](https://codepen.io/xaca/pen/NWpXbEg)
 * [¿for each en javascript?](https://es.stackoverflow.com/questions/17640/for-each-en-javascript)
 * [for ...of](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/for...of)
-* [The for-of loop](https://exploringjs.com/es6/ch_for-of.html)
+* [The for-of loop](https://exploringjs.com/es6/ch\_for-of.html)
 
 ### Ejercicios
 
 1. ¿Cuál es el operador preincremento, predecremento, posdecremento? Escriba ejemplos donde se evidencie su uso.
 2. ¿Existe el preproducto, posdivisión...?
-3. Imprima los números pares entre n y m, donde n &lt; m
-4. Calcular el promedio de los n primero numeros naturales, siendo n &gt;0
+3. Imprima los números pares entre n y m, donde n < m
+4. Calcular el promedio de los n primero numeros naturales, siendo n >0
 5. ¿Para que se utiliza forEach, every, some? 🤓Bonus
-
-
 

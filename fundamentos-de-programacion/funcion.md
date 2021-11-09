@@ -13,13 +13,13 @@ Es un módulo que agrupa un conjunto de sentencias que tienen un fin especifico,
 
 En resumen, es un módulo que resuelve una necesidad puntual que se puede reutilizar.
 
-![La funci&#xF3;n sen, toma un dato de entrada y devuelve un dato de salida, correspondiente a la operaci&#xF3;n.](../.gitbook/assets/imagen%20%2838%29.png)
+![La función sen, toma un dato de entrada y devuelve un dato de salida, correspondiente a la operación.](<../.gitbook/assets/imagen (38).png>)
 
 ### Anatomía de una función
 
 Para crear una función debemos usar la plantilla o firma de la función según la sintaxis de Javascript como se muestra a continuación:
 
-![Firma y partes de una funci&#xF3;n](../.gitbook/assets/imagen%20%2837%29.png)
+![Firma y partes de una función](<../.gitbook/assets/imagen (37).png>)
 
 * `function` Palabra reservada que permite crear el módulo que se comportará como un a función
 * `nombre_funcion` Nombre inventado por el desarrollador, para identificar la función
@@ -89,8 +89,8 @@ console.log("La resta es",restar(a,b));
 
 Salida
 
-_La suma es 8  
-La resta es 2_
+_La suma es 8_\
+_La resta es 2_
 
 #### Sin parámetros y sin retorno
 
@@ -136,7 +136,7 @@ Salida: La función no tiene retorno y por tanto no tiene salida, simplemente es
 _La suma es 8_
 
 {% hint style="info" %}
-_Si los datos leídos no son númeroso son valores incorrectos, el resultado de invocar la función es un error_ Operación incorrecta
+_Si los datos leídos no son númeroso son valores incorrectos, el resultado de invocar la función es un error _Operación incorrecta
 {% endhint %}
 
 #### Sin parámetros y con retorno
@@ -253,16 +253,15 @@ Es posible encapsular toda la lógica de una aplicación adentro de una función
 
 ### Referentes
 
-* [Arrow functions](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [Arrow functions](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Arrow\_functions)
 * [Funciones auto ejecutables](https://www.jasoft.org/Blog/post/Escribiendo-codigo-JavaScript-limpio-funciones-anonimas-auto-ejecutables)
-* [Funciones matemáticas en javascript](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math)
+* [Funciones matemáticas en javascript](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global\_Objects/Math)
 * [Nodeschool](https://nodeschool.io/es/)
 
 ### Ejercicios
 
 1. Realice la función factorial, tenga presente los casos especiales y el desbordamiento.
 2. Cree una función, que calcule los valores de la función Math.sin y Math.cos entre 0 y Math.PI, almacene los datos en una matriz y retorne el resultado.
-3.  Cree una función que se llame tangente, que reciba la matriz del punto anterior, y calcule la tangente usando los valores de la matriz, si la tangente no existe, se debe imprimir el mensaje `error, no existe`caso contrario se imprime el valor.
+3. &#x20;Cree una función que se llame tangente, que reciba la matriz del punto anterior, y calcule la tangente usando los valores de la matriz, si la tangente no existe, se debe imprimir el mensaje `error, no existe`caso contrario se imprime el valor.
 4. Cree una función que calcule valores aleatorios enteros entre `min` y `max`.
 5. Realice el curso de [`javascript funcional`](https://github.com/timoxley/functional-javascript-workshop) de nodeschool.
-

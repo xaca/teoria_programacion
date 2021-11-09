@@ -5,7 +5,7 @@ description: >-
   hacerlo.
 ---
 
-# Maquillaje \(CSS\)
+# Maquillaje (CSS)
 
 ### ¿Qué es una hoja de estilos?
 
@@ -29,13 +29,13 @@ Son palabras que se escriben en el html que permiten localizar desde el css a el
 
 En el html:
 
-```text
+```
 <a href="login.html" id="enlace_login">Login</a>
 ```
 
 En el css:
 
-```text
+```
 #enlace_login{
     /* Acá se ponen las reglas gráficas */
 }
@@ -49,7 +49,7 @@ En el css:
 
 En el html:
 
-```text
+```
 <a href="login.html" class="item_menu">Login</a>
 <a href="registro.html" class="item_menu">Registro</a>
 <a href="recordar_clave.html" class="item_menu">Recordar contraseña</a>
@@ -57,7 +57,7 @@ En el html:
 
 En el css:
 
-```text
+```
 .item_menu{
    /* Reglas gráficas que se aplicaran al grupo de etiquetas*/
 }
@@ -71,7 +71,7 @@ Los selectores se pueden combinar entre varios elementos, es decir una etiqueta 
 
 En el html:
 
-```text
+```
 <a href="login.html">Login</a>
 <a href="registro.html">Registro</a>
 <a href="recordar_clave.html">Recordar contraseña</a>
@@ -79,7 +79,7 @@ En el html:
 
 En el css:
 
-```text
+```
 a{
      /* 
      Reglas gráficas que se aplicarán a los selectores 
@@ -91,7 +91,6 @@ a{
 
 ### Referencias
 
-\`\`[`Selectores`](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)\`\`
+``[`Selectores`](https://developer.mozilla.org/es/docs/Web/CSS/CSS\_Selectors)``
 
-\`\`[`Comentarios`](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments)\`\`
-
+``[`Comentarios`](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments)``

@@ -10,7 +10,7 @@ description: >-
 
 Es una estructura que permite agrupar un conjunto de valores en una variable, por medio de una relación clave valor, donde la clave sirve como indice que indica donde esta almacenado el valor. Es una estructura dinámica, es decir puede aumentar o disminuir su longitud en tiempo de ejecución y cuenta con varias propiedades que nos permiten interactuar con los datos, la longitud, los indices entre otros.
 
-![Un arreglo es similar a un tren, el indice es la clave y el contenido del vagon es el dato.](../.gitbook/assets/imagen%20%2819%29.png)
+![Un arreglo es similar a un tren, el indice es la clave y el contenido del vagon es el dato.](<../.gitbook/assets/imagen (19).png>)
 
 Para crear un arreglo se puede hacer de múltiples maneras, a continuación se muestra una inicialización clásica, donde primero se declara el arreglo y luego se asignan los datos en orden.
 
@@ -81,11 +81,11 @@ for(let i=0; i<zoologico.length;i++)
 La propiedad length permite conocer la longitud del arreglo, se puede usar cuando los datos son asignados por medio de un indice de tipo entero
 {% endhint %}
 
-###  ¿Qué es una mátriz?
+### &#x20;¿Qué es una mátriz?
 
 En javascript es un arreglo de arreglos, es poner un arreglo en cada posición de un arreglo principal, esta estructura puede ser cuadrada, rectangular o incluso no tener una simetría o configuración rígida como sucede con las matrices en otros lenguajes.
 
-![Esta es la representaci&#xF3;n estandar de una m&#xE1;triz](../.gitbook/assets/imagen%20%2821%29.png)
+![Esta es la representación estandar de una mátriz](<../.gitbook/assets/imagen (21).png>)
 
 ```javascript
 let matriz = [[1, 2, 3],[4, 5, 6],[7,8, 9]];
@@ -125,7 +125,7 @@ console.log(texto);
 ```
 
 {% hint style="info" %}
-También es posible usar la propiedad length como en los arreglos, pero para este caso se debe usar `length()` para conocer la longitud de la cadena ``
+También es posible usar la propiedad length como en los arreglos, pero para este caso se debe usar `length() `para conocer la longitud de la cadena` `
 {% endhint %}
 
 Se puede representar el contenido usando comillas simples o comillas dobles, incluso se pueden mezclar en la misma sentencia.
@@ -147,7 +147,7 @@ console.log(frase);
 
 Permite representar en una cadena caracteres que no se pueden asignar por restricciones en su creación.
 
-![Principales secuencias usadas en javascript](../.gitbook/assets/secuencia_escape_javascript.jpg)
+![Principales secuencias usadas en javascript](../.gitbook/assets/secuencia\_escape\_javascript.jpg)
 
 ```javascript
 let texto_escapado = "\"Talk is cheap, show me the code\" - Linus Torvalds";
@@ -167,19 +167,18 @@ Es posible escapar cualquier caracter, por ejemplo cuando se requieren mostrar c
 
 Realice un programa que...
 
-1.  Cuente las palabras de una frase
-2.  Invierta una cadena
+1. &#x20;Cuente las palabras de una frase
+2. &#x20;Invierta una cadena
 3. Invierta un arreglo
 4. Calcule el promedio de un arreglos de números
-5. Imprima en un mensaje de alerta la cadena: El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña toca el saxofón detrás del palenque de paja. 
+5. Imprima en un mensaje de alerta la cadena: El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña toca el saxofón detrás del palenque de paja.&#x20;
 6. Sume dos matrices
 7. Múltiplique dos matrices
 
 * Convierta una cadena así:
 
-![Ejemplo de lo que se espera del funcionamiento del programa de conversi&#xF3;n](../.gitbook/assets/ejercicio_conversiones_01jpg.jpg)
+![Ejemplo de lo que se espera del funcionamiento del programa de conversión](../.gitbook/assets/ejercicio\_conversiones\_01jpg.jpg)
 
 * Imprima una mátriz con el siguiente formato:
 
-![Imprima una matriz en la consola siguiendo el siguiente formato](../.gitbook/assets/ejercicio_conversiones_02jpg.jpg)
-
+![Imprima una matriz en la consola siguiendo el siguiente formato](../.gitbook/assets/ejercicio\_conversiones\_02jpg.jpg)

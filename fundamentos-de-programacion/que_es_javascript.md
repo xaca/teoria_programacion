@@ -9,21 +9,23 @@ description: >-
 
 ### ¿Qué es programación?
 
-Consiste en escribir la solución de una necesidad o problema \(previamente [explicado](https://xaca.gitbook.io/fullstack/algoritmos/)\) usando un lenguaje de programción, que permita traducir el pseudocódigo en un lenguaje de programación.
+Consiste en escribir la solución de una necesidad o problema (previamente [explicado](https://xaca.gitbook.io/fullstack/algoritmos/)) usando un lenguaje de programción, que permita traducir el pseudocódigo en un lenguaje de programación.
 
 ### ¿Qué es un lenguaje de programación?
 
-Es un conjunto de instrucciones llamadas código, que permiten por medio de una sintaxis \(forma de escribir\) determinada, escribir el algoritmo que ejecutará el computador.
+Es un conjunto de instrucciones llamadas código, que permiten por medio de una sintaxis (forma de escribir) determinada, escribir el algoritmo que ejecutará el computador.
 
 ### ¿Qué es javascript?
 
 Es el lenguaje de programación soportado por todos los navegadores web y del lado del servidor por medio de node js, que permiten ejecutar programas o tener interacción en una página web.
 
-{% embed url="https://www.youtube.com/watch?v=bF5CTKPd8To" caption="Funcionamiento básico de javascript" %}
+{% embed url="https://www.youtube.com/watch?v=bF5CTKPd8To" %}
+Funcionamiento básico de javascript
+{% endembed %}
 
 ### Enlaces de referencia
 
-* [¿Qué es javascript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+* [¿Qué es javascript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First\_steps/What\_is\_JavaScript)
 * [Nodeschool javascripting](https://github.com/workshopper/javascripting)
 * [Javascript codeacademy](https://mypassionprojects.com/30-days-of-code-learning-javascript/)
 
@@ -31,6 +33,4 @@ Es el lenguaje de programación soportado por todos los navegadores web y del la
 
 * Cree un proyecto de prueba en codepen, suba la estructura creada en unidades anteriores
 * Ejecute el programa en javascript _hola mundo_
-
-
 

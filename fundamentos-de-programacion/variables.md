@@ -12,8 +12,8 @@ description: >-
 Es un espacio reservado en memoria que sirve para almacenar un dato, el valor almacenado tiene asociado un tipo que depende de las características de la información, a continuación se mencionan algunos tipos importantes:
 
 * Cadenas: Permite la representación de un valor alfanúmerico, como texto, documentos de identidad, telefonos, direcciones, etc.
-* Números: Representación de un valor númerico, puede tener una parte decimal, si es así se llaman números flotantes \(float\) o sin parte decimal, que son los enteros \(int\).
-* Booleanos: Permiten representar un valor de verdad, que es verdadero \(true\) o falso \(false\) en javascript hay otros valores que pueden ser verdaderos o falsos, esos los estudiaremos más adelante.
+* Números: Representación de un valor númerico, puede tener una parte decimal, si es así se llaman números flotantes (float) o sin parte decimal, que son los enteros (int).
+* Booleanos: Permiten representar un valor de verdad, que es verdadero (true) o falso (false) en javascript hay otros valores que pueden ser verdaderos o falsos, esos los estudiaremos más adelante.
 * Arreglos y Objetos: Estos tipos de datos en realidad son contenedores que estan compuestos internamente por otros datos y características, también se estudiaran más adelante.
 
 ### Modificadores de variable
@@ -38,7 +38,7 @@ function contextoLocal(){
 }
 ```
 
-* **let:** Evita que la variable pueda ser redeclarada, esto con el fin de dar mayor orden a la escritura del código y evitar repetir valores que pueden ser claves para la lógica de la aplicación por **ejemplo** nombre\_usuario
+* **let:** Evita que la variable pueda ser redeclarada, esto con el fin de dar mayor orden a la escritura del código y evitar repetir valores que pueden ser claves para la lógica de la aplicación por **ejemplo **nombre\_usuario
 
 El siguiente código no es posible, aparece un error
 
@@ -81,13 +81,15 @@ console.log("total=",precio*IMPUESTO);
 
 En el siguiente video se explica como usar las variables en javascript y sus modificadores
 
-{% embed url="https://www.youtube.com/watch?v=cQscAQjovFg" caption="Explicación sobre como funcionan las variables en javascript" %}
+{% embed url="https://www.youtube.com/watch?v=cQscAQjovFg" %}
+Explicación sobre como funcionan las variables en javascript
+{% endembed %}
 
 ### Enlaces de referencia
 
 * Definición [undefined](https://developer.mozilla.org/en-US/docs/Glossary/undefined)
 * Ejemplo de referencia en [codepen](https://codepen.io/xaca/pen/rNjzgbK)
-* Explicación sobre [variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables) en javascript
+* Explicación sobre [variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Variables) en javascript
 
 ### Ejercicio
 
@@ -95,4 +97,3 @@ En el siguiente video se explica como usar las variables en javascript y sus mod
 * Crear una variable y asignar e imprimir los valores, usando la opción typeof, explicada en el paso anterior
 * ¿Cuál es el valor por defecto de una variable luego de ser declarada con var o con let?
 * Por último en codepen, realice un pequeño script que utilice 1 variable sin modificador, 2 variables con modificador var y asigne un flotante y un boolean, 3 variables con modificador let y asigne valores entero, cadena y arreglo, por último cree una constante que represente el número PI.
-
