@@ -69,6 +69,8 @@ En la consola ejecuta el archivo con `node index.js` y luego ingresas a la url [
 
 ![Resultado final de la prueba del proyecto](<../.gitbook/assets/imagen (44).png>)
 
+Para detener el servidor desde la terminal, se debe presionar la combinación de teclas ctrl+C, y ahí bajamos el servidor.
+
 ## Referencias
 
 1. [Getting started express](http://expressjs.com/en/starter/installing.html)
